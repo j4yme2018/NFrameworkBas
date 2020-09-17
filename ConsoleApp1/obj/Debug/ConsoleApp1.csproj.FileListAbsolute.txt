@@ -1,0 +1,6 @@
+C:\2020 PRO\2020 Net Framework\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\2020 PRO\2020 Net Framework\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\2020 PRO\2020 Net Framework\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\2020 PRO\2020 Net Framework\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\2020 PRO\2020 Net Framework\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\2020 PRO\2020 Net Framework\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
